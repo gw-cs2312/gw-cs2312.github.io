@@ -5,24 +5,24 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Tim Wood</b></li>
-        <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
-        <li>Office Hours: TBD, SEH 4580</li>
-        <li>Class: Wednesdays 3:30-6PM in Tompkins 405</li>
+        <li><b>Prof. Vishesh Patel</b></li>
+        <li><a href="mailto:visheshp@seas.upenn.edu">visheshp@seas.upenn.edu</a></li>
+        <li>Office Hours: TBD, TBD</li>
+        <li>Class: Tuesdays and Thursdays 4:45-6PM in TBD</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li>TBD</li>
-        <li><a href="mailto:">TBD</a></li>
+        <li>Prof. Kasia Hitczenko</li>
+        <li><a href="mailto:kasia.hitczenko@gmail.com">kasia.hitczenko@gmail.com</a></li>
         <li>Office Hours: TBD</li>
-        <li>Labs: Mondays 2:10-3:20 and 9-10:10AM in SEH 4040</li>
+        <li>Class: Tuesdays and Wednesdays 4:45-6PM in TBD</li>
     </ul>
     </div>
 </div></div>
 
 
-> In this course, students will learn how to write object-oriented code using Java. Concepts will focus on object-oriented thinking, software composition, inheritance and polymorphism, and design principles. Programming techniques, assignments and lab exercises will focus on Java, specifically, the language and its core libraries. The course will be conducted lab-style with a mix of lecture, lab assignments and projects. The course will also cover an elementary introduction to the C programming language.
+> In this course, students will learn basic discrete techniques in computer science; proofs, algebraic structures, number theory, graph theory, asymptotics. Prerequisites: MATH 1221 or MATH 1231 or MATH 1232 or MATH 2233; and CSCI 1311 with a minimum grade of C. (Fall, Every year)
 
 
 ## Announcements ##
