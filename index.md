@@ -13,7 +13,7 @@ layout: home
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li>Prof. Kasia Hitczenko</li>
+        <li><b>Prof. Kasia Hitczenko</b></li>
         <li><a href="mailto:kasia.hitczenko@gmail.com">kasia.hitczenko@gmail.com</a></li>
         <li>Office Hours: TBD</li>
         <li>Class: Tuesdays and Wednesdays 4:45-6PM in TBD</li>
