@@ -4,7 +4,7 @@ title: Course Syllabus
 permalink: /sample/
 ---
 
-**Instructor:** [Prof. Vishesh Patel and Prof. Kasia Hitczenko](:)
+**Instructors:** [Prof. Vishesh Patel and Prof. Kasia Hitczenko](:)
 **Email:** [visheshp@seas.upenn.edu](mailto:visheshp@seas.upenn.edu)
 **TA:**  TBD
 **Prerequisites:**  MATH 1221 or MATH 1231 or MATH 1232 or MATH 2233; and CSCI 1311 with a minimum grade of C (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/))
@@ -32,7 +32,7 @@ By the end of this course, students will be able to:
 
 ### Course Staff
 
-The class has two Graduate Teaching Assistants (GTAs) who will be responsible for teaching the labs, holding office hours, and can assist with grading. There are also three Learning Assistants (LAs) who can help (but not lead) labs and hold office hours. Full details about how LAs can be used is in the attached document (note that this class has no undergraduate UTAs assigned, only GTAs).
+The class has two Graduate Teaching Assistants (GTAs) who will be responsible for teaching the labs, holding office hours, and can assist with grading. There are also three Learning Assistants (LAs) who can help (but not lead) labs and hold office hours.
 
 **Graduate Teaching Assistants:**
 - **Shejal Shankar**  
