@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Syllabus
+title: Course Syllabus
 permalink: /sample/
 ---
 
