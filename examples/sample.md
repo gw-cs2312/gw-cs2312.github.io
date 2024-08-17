@@ -7,7 +7,7 @@ permalink: /sample/
 **Instructor:** [Prof. Vishesh Patel and Prof. Kasia Hitczenko](:)
 **Email:** [visheshp@seas.upenn.edu](mailto:visheshp@seas.upenn.edu)
 **TA:**  TBD
-**Prerequisites:** CS 1112 or equivalent (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
+**Prerequisites:**  MATH 1221 or MATH 1231 or MATH 1232 or MATH 2233; and CSCI 1311 with a minimum grade of C (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/))
 
 **Time/Place:**
   * **Class meets Tuesdays and Thursdays 4:45-6PM in TBD**
