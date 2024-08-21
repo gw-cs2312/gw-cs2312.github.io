@@ -35,19 +35,19 @@ layout: home
 | Week | Date | Topic | Assignments
 |:---  |:--- | |:--- |
 | Week 1 | Proof Techniques | 
-| Week 2 | Divisibility as an application of proof techniques |
-| Week 3 | Timing Analysis and Big-Oh |
-| Week 4 | Timing Analysis and Big-Oh |
-| Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta |
-| Week 6 | Asymptotic Properties of Monomials |
-| Week 7 | Mathematical Induction Graph Theory: Walks |
-| Week 8 | Walks, Trails, Paths, Diameter |
-| Week 9 | Cycles, Connectedness, Components |
-| Week 10 | Trees |
-| Week 11 | Spanning Trees, Graph Coloring |
-| Week 12 | Bipartite Graphs |
-| Week 13 | Graph Homomorphisms |
-| Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures |
+| Week 2 | Divisibility as an application of proof techniques | Hw1
+| Week 3 | Timing Analysis and Big-Oh | HW2
+| Week 4 | Timing Analysis and Big-Oh | HW3
+| Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | HW4
+| Week 6 | Asymptotic Properties of Monomials | Test 1
+| Week 7 | Mathematical Induction Graph Theory: Walks | HW5
+| Week 8 | Walks, Trails, Paths, Diameter | HW6
+| Week 9 | Cycles, Connectedness, Components | HW7
+| Week 10 | Trees | 
+| Week 11 | Spanning Trees, Graph Coloring | HW8
+| Week 12 | Bipartite Graphs | HW9
+| Week 13 | Graph Homomorphisms | Test 2
+| Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures | HW10
 | Week 15 | Final Exam as scheduled by University |
 
 </div>
