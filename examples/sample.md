@@ -33,10 +33,6 @@ By the end of this course, students will be able to:
 The class has two Graduate Teaching Assistants (GTAs) who will be responsible for teaching the labs, holding office hours, and can assist with grading. There are also three Learning Assistants (LAs) who can help (but not lead) labs and hold office hours.
 
 **Graduate Teaching Assistants:**
-- **Shejal Shankar**  
-  Email: [shejal.shankar@gwmail.gwu.edu](mailto:shejal.shankar@gwmail.gwu.edu)  
-  Office Hours: TBD
-
 - **Gehna Ahuja**  
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
   Office Hours: TBD
