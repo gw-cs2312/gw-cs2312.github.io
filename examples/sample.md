@@ -35,18 +35,18 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
-  Office Hours: TBD
+  Office Hours: Monday: 5 PM - 7 PM EST at TBD
 
 **Learning Assistants:**
 - **Lennart Martens**  
   Email: [lennart@gwu.edu](mailto:lennart@gwu.edu)  
   Lab: Lab 1  
-  Office Hours: TBD
+  Office Hours: Friday: 4 PM - 6 PM EST at TBD
 
 - **Joshua Kweon**  
   Email: [joshkweon7@gwu.edu](mailto:joshkweon7@gwu.edu)  
   Lab: Lab 2  
-  Office Hours: TBD
+  Office Hours: Wednesday: 4 PM - 6 PM EST at TBD
 
 - **Thomas Gillespie**  
   Email: [tgillespie@gwu.edu](mailto:tgillespie@gwu.edu)  
