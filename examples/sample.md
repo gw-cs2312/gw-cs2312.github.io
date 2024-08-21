@@ -9,9 +9,9 @@ permalink: /sample/
 
 **Time/Place:**
   * **Class meets Tuesdays and Thursdays 4:45-6PM in TBD**
-  * Lab 1 meets Monday: 12:45 - 2 PM EST in TBD
-  * Lab 2 meets Wednesday: 9:00 - 10:15 AM EST in TBD
-  * Lab 3 meets Friday: 9:00 - 10:15 AM EST in TBD
+  * Lab 1 meets Monday: 12:45 - 2 PM EST in SEH 1450
+  * Lab 2 meets Wednesday: 9:00 - 10:15 AM EST in SEH 145
+  * Lab 3 meets Friday: 9:00 - 10:15 AM EST in SEH 1450
 
 **Office Hours:**
   * Prof. Vishesh Patel: TBD
