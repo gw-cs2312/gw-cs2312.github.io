@@ -32,10 +32,9 @@ layout: home
 
 <div style="font-size:90%">
 
-| Week | Date | Topic
+| Week | Date | Topic | Reading | Assignments
 |:---  |:--- | |:--- |
-| Week 1 | Lab |
-| Week 1 | Thurs Aug 22 |
+| Week 1 | Thurs Aug 22 <br> Lab | 
 | Week 2 |  |
 | Week 3 |  |
 | Week 4 |  |
