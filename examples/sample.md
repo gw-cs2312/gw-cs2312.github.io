@@ -61,7 +61,7 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 
 The textbooks for this course are:
 
-  * **Required:** [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) by Susanna S. Epp, Cengage Learning; 4th edition (August 4, 2010)
+  * **Required:** [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) by Susanna S. Epp, Cengage Learning; 5th edition or 4th edition
 
 You can get the e-book or may want to check Amazon.com for a cheaper copy.
 
@@ -79,7 +79,7 @@ You can get the e-book or may want to check Amazon.com for a cheaper copy.
 > **If you have a disability that may affect your participation in this course and wish to discuss academic accommodations, please contact us as soon as possible.**
 
 **Late work policy:**
-  * While deadlines will be enforced barring exception circumstances, we will drop the lowest homework grade to account for any unforeseen circumstances, so you can miss one homework without penalty.
+  * While deadlines will be enforced barring exceptional circumstances, we will drop the lowest homework grade to account for any unforeseen circumstances, so you can miss one homework without penalty.
 
 **Email policy:** You can send emails to both professors. We will answer most class emails during specific times set aside during the week for this purpose - so do not expect an instantaneous response. 
 
