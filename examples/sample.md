@@ -37,6 +37,10 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
   Office Hours: Monday: 5 PM - 7 PM EST at TBD
 
+- **Suvasree Biswas**
+  Email: [suvasree@email.gwu.edu](mailto:suvasree@email.gwu.edu)
+  Office Hours: TBD
+
 **Learning Assistants:**
 - **Lennart Martens**  
   Email: [lennart@gwu.edu](mailto:lennart@gwu.edu)  
