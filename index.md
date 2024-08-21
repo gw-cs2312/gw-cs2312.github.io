@@ -16,7 +16,7 @@ layout: home
         <li><b>Prof. Kasia Hitczenko</b></li>
         <li><a href="mailto:kasia.hitczenko@gmail.com">kasia.hitczenko@gmail.com</a></li>
         <li>Office Hours: TBD</li>
-        <li>Class: Tuesdays and Wednesdays 4:45-6PM in TBD</li>
+        <li>Class: Tuesdays and Thursdays 4:45-6PM in TBD</li>
     </ul>
     </div>
 </div></div>
@@ -32,9 +32,10 @@ layout: home
 
 <div style="font-size:90%">
 
-| Week | Topic
-|:---  |:--- |
-| Week 1 |  |
+| Week | Date | Topic
+|:---  |:--- | |:--- |
+| Week 1 | Lab |
+| Week 1 | Thurs Aug 22 |
 | Week 2 |  |
 | Week 3 |  |
 | Week 4 |  |
