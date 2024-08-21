@@ -30,7 +30,7 @@ By the end of this course, students will be able to:
 
 ### Course Staff
 
-The class has two Graduate Teaching Assistants (GTAs) who will be responsible for teaching the labs, holding office hours, and can assist with grading. There are also three Learning Assistants (LAs) who can help (but not lead) labs and hold office hours.
+The class has two Graduate Teaching Assistants (GTAs) who will be responsible for teaching the labs, holding office hours, and assisting with grading. There are also three Learning Assistants (LAs) who will help out with labs and hold office hours.
 
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
