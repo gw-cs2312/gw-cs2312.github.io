@@ -35,8 +35,12 @@ layout: home
 | Date | Topic | Reading | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
 | Thurs Aug 22 | Proof Techniques | Epp: 1.1, 2.1-2.3 |  | Patel
+| Lab Aug 26/28/30 | Incorrect proofs | | | TAs
 | Tues Aug 27 | Proof Techniques II | | Patel
-| Thurs Aug 29 | Divisibility | Epp: 4.1, 4.2, 4.4 | Hw1 | Hitczenko
+| Thurs Aug 29 | Divisibility | Epp: 4.1, 4.2, 4.4 | | Hitczenko
+| Lab Sept 2/4/6 | NO LAB THIS WEEK (LABOR DAY)
+| Tues Sept 3 | Divisibility |  | HW1 due before class | Hitczenko
+| Thurs Sept 5 | Negation of "there exists" |  | | Patel
 | Week 3 | Timing Analysis and Big-Oh | HW2
 | Week 4 | Timing Analysis and Big-Oh | HW3
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | HW4
