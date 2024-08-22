@@ -15,7 +15,7 @@ permalink: /sample/
 
 **Office Hours:**
   * Prof. Vishesh Patel: TBD
-  * Prof. Kasia Hitczenko: Office Hours: Wednesdays 12:30-1:30 in SEH 5520 
+  * Prof. Kasia Hitczenko: Office Hours: Wednesdays 12:30-1:30 in SEH 5520 (or by appointment)
 
 ### Course Description and Learning Outcomes
 
