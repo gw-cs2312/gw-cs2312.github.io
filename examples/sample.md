@@ -8,14 +8,14 @@ permalink: /sample/
 **Prerequisites:**  MATH 1221 or MATH 1231 or MATH 1232 or MATH 2233; and CSCI 1311 with a minimum grade of C (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/))
 
 **Time/Place:**
-  * **Class meets Tuesdays and Thursdays 4:45-6PM in TBD**
+  * **Class meets Tuesdays and Thursdays 4:45-6PM in SEH 1300, 1400, 1450**
   * Lab 1 meets Monday: 12:45 - 2 PM EST in SEH 1450
-  * Lab 2 meets Wednesday: 9:00 - 10:15 AM EST in SEH 145
+  * Lab 2 meets Wednesday: 9:00 - 10:15 AM EST in SEH 1450
   * Lab 3 meets Friday: 9:00 - 10:15 AM EST in SEH 1450
 
 **Office Hours:**
   * Prof. Vishesh Patel: TBD
-  * Prof. Kasia Hitczenko: TBD
+  * Prof. Kasia Hitczenko: Office Hours: Wednesdays 12:30-1:30 in SEH 5520 
 
 ### Course Description and Learning Outcomes
 
