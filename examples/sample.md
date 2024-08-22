@@ -57,17 +57,13 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
   Lab: Lab 3  
   Office Hours: TBD
 
-### Course Outline
-
-  TBD
-
 ### Textbook and Resources
 
 The textbooks for this course are:
 
-  * **Required:** [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) by Susanna S. Epp, Cengage Learning; 5th edition or 4th edition
+  * **Required:** [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) by Susanna S. Epp, Cengage Learning; 5th edition (4th edition is fine too)
 
-You can get the e-book or may want to check Amazon.com for a cheaper copy.
+You can get the e-book or may want to check Amazon.com for a cheaper copy. Please come talk to us if you are concenred about the cost.
 
 ### Grading
 
@@ -76,7 +72,9 @@ You can get the e-book or may want to check Amazon.com for a cheaper copy.
    * 15%: Midterm #1
    * 15%: Midterm #2
    * 30%: Final
-   * 35%: Homework 
+   * 35%: Homework
+
+You will often be assigned reading before class. There will be a weekly homework due Tuesday before class. To be fair to students in all discussion sections, TAs will not answer questions about the HW in any discussion section.
 
 ### Course Policies
 
@@ -106,8 +104,7 @@ You may not:
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. **Penalties for violating the code or the policies described here include failing this course**, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
 
-### Course Schedule
+**Average amount of direct instruction or guided interaction with the instructor and average minimum amount of independent (out-of-class) learning expected per week**: 
+2.5 hours of lecture, 1.25 hours of discussion section, a minimum of 7.5 hours of independent learning per week for a combined minimum total of 11.25 hours per week or 168.75 hours per semester.
 
-TBD
 
-### Further Notes
