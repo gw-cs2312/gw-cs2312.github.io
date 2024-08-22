@@ -32,10 +32,11 @@ layout: home
 
 <div style="font-size:90%">
 
-| Week | Date | Topic | Assignments
-|:---  |:--- | |:--- |
-| Week 1 | Proof Techniques | 
-| Week 2 | Divisibility as an application of proof techniques | Hw1
+| Date | Topic | Reading | Assignments | Instructor
+|:---  |:--- | |:--- | |:--- |
+| Thurs Aug 22 | Proof Techniques | Epp: 1.1, 2.1-2.3 |  | Patel
+| Tues Aug 27 | Proof Techniques II | | Patel
+| Thurs Aug 29 | Divisibility | Epp: 4.1, 4.2, 4.4 | Hw1 | Hitczenko
 | Week 3 | Timing Analysis and Big-Oh | HW2
 | Week 4 | Timing Analysis and Big-Oh | HW3
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | HW4
