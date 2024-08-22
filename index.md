@@ -42,18 +42,17 @@ layout: home
 | Thurs Sept 5 | Negation of "there exists" |  | | Patel
 | Tues Sept 10 | Timing analyses | | HW2 due before class | Patel
 | Thurs Sept 12 | Big-Oh Definition | | | Hitczenko
-| Week 3 | Timing Analysis and Big-Oh | HW2
-| Week 4 | Timing Analysis and Big-Oh | HW3
-| Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | HW4
-| Week 6 | Asymptotic Properties of Monomials | Test 1
-| Week 7 | Mathematical Induction Graph Theory: Walks | HW5
-| Week 8 | Walks, Trails, Paths, Diameter | HW6
-| Week 9 | Cycles, Connectedness, Components | HW7
-| Week 10 | Trees | 
-| Week 11 | Spanning Trees, Graph Coloring | HW8
-| Week 12 | Bipartite Graphs | HW9
+| Week 4 | Timing Analysis and Big-Oh Cont'd | | HW3
+| Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
+| Week 6 | Asymptotic Properties of Monomials | | Test 1
+| Week 7 | Mathematical Induction Graph Theory: Walks | | HW5
+| Week 8 | Walks, Trails, Paths, Diameter | | HW6
+| Week 9 | Cycles, Connectedness, Components | | HW7
+| Week 10 | Trees | | HW8 
+| Week 11 | Spanning Trees, Graph Coloring | | HW9
+| Week 12 | Bipartite Graphs | | HW10
 | Week 13 | Graph Homomorphisms | Test 2
-| Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures | HW10
+| Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
 | Week 15 | Final Exam as scheduled by University |
 
 </div>
