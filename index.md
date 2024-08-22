@@ -27,7 +27,7 @@ layout: home
 
 ## Schedule  ##
 
-- Please check back frequently for latest schedule. This will be continually updated after each lecture based on how quickly we cover material in class.
+- Please check back frequently for the most up-to-date schedule. This will be continually updated after each lecture based on how quickly we cover material in class.
 
 <div style="font-size:90%">
 
