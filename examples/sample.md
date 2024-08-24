@@ -14,7 +14,7 @@ permalink: /sample/
   * Lab 3 meets Friday: 9:00 - 10:15 AM EST in SEH 1450
 
 **Office Hours:**
-  * Prof. Vishesh Patel: TBD
+  * Prof. Vishesh Patel: After Class, SEH 1st Floor Bump Space (or by appointment)
   * Prof. Kasia Hitczenko: Office Hours: Wednesdays 12:30-1:30 in SEH 5520 (or by appointment)
 
 ### Course Description and Learning Outcomes
@@ -34,12 +34,14 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
-  Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
-  Office Hours: Monday: 5 PM - 7 PM EST at TBD
+  Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)
+  Lab: Lab 1 / Lab 2 / Lab 3
+  Office Hours: Monday: 5 PM - 7 PM EST on Zoom 
 
 - **Suvasree Biswas**
   Email: [suvasree@email.gwu.edu](mailto:suvasree@email.gwu.edu)
-  Office Hours: TBD
+  Lab: Lab 1 / Lab 2 / Lab 3
+  Office Hours: Monday: 6 PM - 8 PM EST at TBD
 
 **Learning Assistants:**
 - **Lennart Martens**  
@@ -55,7 +57,7 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 - **Thomas Gillespie**  
   Email: [tgillespie@gwu.edu](mailto:tgillespie@gwu.edu)  
   Lab: Lab 3  
-  Office Hours: TBD
+  Office Hours: Friday: 2 PM - 4 PM EST at TBD
 
 ### Textbook and Resources
 

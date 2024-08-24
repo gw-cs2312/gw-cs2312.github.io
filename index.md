@@ -7,16 +7,16 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Vishesh Patel</b></li>
         <li><a href="mailto:visheshp@seas.upenn.edu">visheshp@seas.upenn.edu</a></li>
-        <li>Office Hours: After Class, SEH 1st Floor Bump Space</li>
-        <li>Class: Tuesdays and Thursdays 4:45-6PM in TBD</li>
+        <li>Office Hours: After Class, SEH 1st Floor Bump Space (or by appointment)</li>
+        <li>Class: Tuesdays and Thursdays 4:45-6PM in SEH 1300/1400/1450</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Prof. Kasia Hitczenko</b></li>
         <li><a href="mailto:kasia.hitczenko@gmail.com">kasia.hitczenko@gmail.com</a></li>
-        <li>Office Hours: TBD</li>
-        <li>Class: Tuesdays and Thursdays 4:45-6PM in TBD</li>
+        <li>Office Hours: Wednesdays 12:30-1:30 in SEH 5520 (or by appointment)</li>
+        <li>Class: Tuesdays and Thursdays 4:45-6PM in SEH 1300/1400/1450</li>
     </ul>
     </div>
 </div></div>
