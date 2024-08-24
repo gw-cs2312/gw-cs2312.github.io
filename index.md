@@ -7,7 +7,7 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Vishesh Patel</b></li>
         <li><a href="mailto:visheshp@seas.upenn.edu">visheshp@seas.upenn.edu</a></li>
-        <li>Office Hours: TBD, TBD</li>
+        <li>Office Hours: After Class, SEH 1st Floor Bump Space</li>
         <li>Class: Tuesdays and Thursdays 4:45-6PM in TBD</li>
     </ul>
 </div>
