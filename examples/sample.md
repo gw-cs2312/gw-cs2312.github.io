@@ -34,9 +34,13 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
-  Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)
-  Lab: Lab 1 / Lab 2 / Lab 3
-  Office Hours: Monday: 5 PM - 7 PM EST on Zoom 
+  Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
+  Lab: Lab 1 / Lab 2 / Lab 3  
+  Office Hours: 
+  * Monday and Friday: 5 PM - 6 PM EST on Zoom  
+    [Join Zoom Meeting](https://us04web.zoom.us/j/78243640666?pwd=i17UXXoX6I9tmlZmfDa0wZUPwWYlra.1)  
+    Meeting ID: 782 4364 0666  
+    Passcode: 5qn7AN 
 
 - **Suvasree Biswas**
   Email: [suvasree@email.gwu.edu](mailto:suvasree@email.gwu.edu)
