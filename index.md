@@ -33,7 +33,7 @@ layout: home
 
 | Date | Topic | Reading | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
-| Thurs Aug 22 | Introduction and Proof Techniques | Epp: 1.1, 2.1-2.3 |  | Patel
+| Thurs Aug 22 | [Introduction](lecture_notes/Lecture #1_ 8_22 Presentation.pptx.pdf) and Proof Techniques | Epp: 1.1, 2.1-2.3 |  | Patel
 | Lab Aug 26/28/30 | Incorrect proofs | | | TAs
 | Tues Aug 27 | Proof Techniques II | | | Patel
 | Thurs Aug 29 | Divisibility | Epp: 4.1, 4.2, 4.4 | | Hitczenko
