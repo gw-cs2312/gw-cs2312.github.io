@@ -33,7 +33,7 @@ layout: home
 
 | Date | Topic | Reading | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
-| Thurs Aug 22 | Introduction and Review ([intro slides](lecture_notes/Lecture1_8_22_Presentation.pptx.pdf) and [lecture notes](lecture_notes/20240822_lecturenotes.pdf) | Epp: 1.1, 2.1-2.3 |  | Patel
+| Thurs Aug 22 | Introduction and Review ([intro slides](lecture_notes/Lecture1_8_22_Presentation.pptx.pdf) and [lecture notes](lecture_notes/20240822_lecturenotes.pdf)) | Epp: 1.1, 2.1-2.3 |  | Patel
 | Lab Aug 26/28/30 | Incorrect proofs | | | TAs
 | Tues Aug 27 | Proof Techniques II | | | Patel
 | Thurs Aug 29 | Divisibility | Epp: 4.1, 4.2, 4.4 | | Hitczenko
