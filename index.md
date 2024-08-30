@@ -14,7 +14,7 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Prof. Kasia Hitczenko</b></li>
-        <li><a href="mailto:kasia.hitczenko@gmail.com">kasia.hitczenko@gmail.com</a></li>
+        <li><a href="mailto:kasia.hitczenko@gwu.edu">kasia.hitczenko@gmail.com</a></li>
         <li>Office Hours: Wednesdays 12:30-1:30 in SEH 5520 (or by appointment)</li>
         <li>Class: Tuesdays and Thursdays 4:45-6PM in SEH 1300/1400/1450</li>
     </ul>
