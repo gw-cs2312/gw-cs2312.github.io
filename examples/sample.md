@@ -51,7 +51,7 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 - **Lennart Martens**  
   Email: [lennart@gwu.edu](mailto:lennart@gwu.edu)  
   Lab: Lab 1  
-  Office Hours: Friday: 4 PM - 6 PM EST at TBD
+  Office Hours: Friday: 4 PM - 6 PM EST on the 4th Floor of SEH
 
 - **Joshua Kweon**  
   Email: [joshkweon7@gwu.edu](mailto:joshkweon7@gwu.edu)  
@@ -61,7 +61,7 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 - **Thomas Gillespie**  
   Email: [tgillespie@gwu.edu](mailto:tgillespie@gwu.edu)  
   Lab: Lab 3  
-  Office Hours: Friday: 2 PM - 4 PM EST at TBD
+  Office Hours: Friday: 2 PM - 4 PM EST on the 4th Floor of SEH
 
 ### Textbook and Resources
 
