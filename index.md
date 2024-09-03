@@ -38,7 +38,7 @@ layout: home
 | Tues Aug 27 | Proof Techniques II ([lecture notes](lecture_notes/20240827_lecturenotes.pdf)) | | | Patel
 | Thurs Aug 29 | Divisibility ([handout](lecture_notes/DivisibilityResults.pdf) and [lecture notes](lecture_notes/20240829_lecturenotes.pdf)) | Epp: 4.1, 4.2, 4.4 | | Hitczenko
 | Lab Sept 2/4/6 | NO LAB THIS WEEK (LABOR DAY)
-| Tues Sept 3 | Divisibility |  | HW1 due before class | Hitczenko
+| Tues Sept 3 | Divisibility Cont'd: Modular Arithmetic ([handout](lecture_notes/ModulomDefinitionAndRemainders.pdf)) |  | HW1 due before class | Hitczenko
 | Thurs Sept 5 | Negation of "there exists" |  | | Patel
 | Tues Sept 10 | Timing analyses | | HW2 due before class | Patel
 | Thurs Sept 12 | Big-Oh Definition | | | Hitczenko
