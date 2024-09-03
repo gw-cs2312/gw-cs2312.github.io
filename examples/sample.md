@@ -35,33 +35,35 @@ The class has two Graduate Teaching Assistants (GTAs) who will be responsible fo
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
-  Lab: Lab 1 / Lab 2 / Lab 3  
-  Office Hours: 
-  * Monday and Friday: 5 PM - 6 PM EST on Zoom  
-    [Join Zoom Meeting](https://us04web.zoom.us/j/78243640666?pwd=i17UXXoX6I9tmlZmfDa0wZUPwWYlra.1)  
-    Meeting ID: 782 4364 0666  
-    Passcode: 5qn7AN 
+  Lab: Lab 2 / 3 
+  Office Hours: Friday: 10:30 AM - 12:30 PM at the SEH 4000 area
 
 - **Suvasree Biswas**
   Email: [suvasree@email.gwu.edu](mailto:suvasree@email.gwu.edu)
+  Lab: Lab 1
+  Office Hours: Monday: 6 PM - 8 PM EST at the SEH 4000 area
+
+- **Divya Sree Vadlamudi
+  Email: [divyasree.vadlamudi@gwmail.gwu.edu](mailto:divyasree.vadlamudi@gwmail.gwu.edu)
   Lab: Lab 1 / Lab 2 / Lab 3
-  Office Hours: Monday: 6 PM - 8 PM EST at TBD
+  Office Hours: TBD
+
 
 **Learning Assistants:**
 - **Lennart Martens**  
   Email: [lennart@gwu.edu](mailto:lennart@gwu.edu)  
   Lab: Lab 1  
-  Office Hours: Friday: 4 PM - 6 PM EST on the 4th Floor of SEH
+  Office Hours: Friday: 4 PM - 6 PM EST at the SEH 4000 area
 
 - **Joshua Kweon**  
   Email: [joshkweon7@gwu.edu](mailto:joshkweon7@gwu.edu)  
   Lab: Lab 2  
-  Office Hours: Wednesday: 4 PM - 6 PM EST at TBD
+  Office Hours: Wednesday: 4 PM - 6 PM at the SEH 4000 area
 
 - **Thomas Gillespie**  
   Email: [tgillespie@gwu.edu](mailto:tgillespie@gwu.edu)  
   Lab: Lab 3  
-  Office Hours: Friday: 2 PM - 4 PM EST on the 4th Floor of SEH
+  Office Hours: Friday: 2 PM - 4 PM EST at the SEH 4000 area
 
 ### Textbook and Resources
 
