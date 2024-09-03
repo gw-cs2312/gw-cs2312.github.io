@@ -46,7 +46,7 @@ The class has three Graduate Teaching Assistants (GTAs) who will be responsible 
 - **Divya Sree Vadlamudi**
   Email: [divyasree.vadlamudi@gwmail.gwu.edu](mailto:divyasree.vadlamudi@gwmail.gwu.edu)
   Lab: Lab 1 / Lab 2 / Lab 3
-  Office Hours: TBD
+  Office Hours: Wednesday: 10:30 AM - 12:30 PM EST at the SEH 4000 area
 
 
 **Learning Assistants:**
