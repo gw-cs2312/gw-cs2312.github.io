@@ -39,10 +39,10 @@ layout: home
 | Thurs Aug 29 | Divisibility ([handout](lecture_notes/DivisibilityResults.pdf) and [lecture notes](lecture_notes/20240829_lecturenotes.pdf)) | Epp: 4.1, 4.2, 4.4 | | Hitczenko
 | Lab Sept 2/4/6 | NO LAB THIS WEEK (LABOR DAY)
 | Tues Sept 3 | Divisibility Cont'd: Modular Arithmetic ([handout](lecture_notes/ModulomDefinitionAndRemainders.pdf)) |  | HW1 due before class | Hitczenko
-| Thurs Sept 5 | Negation of "there exists" |  | | Patel
-| Tues Sept 10 | Timing analyses | | HW2 due before class | Patel
-| Thurs Sept 12 | Big-Oh Definition | | | Hitczenko
-| Week 4 | Timing Analysis and Big-Oh Cont'd | | HW3
+| Thurs Sept 5 | Induction (Weak) |  | | Patel
+| Tues Sept 10 | Induction (Weak and Strong) | | HW2 due before class | Patel
+| Thurs Sept 12 | Timing Analysis | | | Hitczenko
+| Week 4 | Timing Analysis Continued | | HW3
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
 | Week 6 | Asymptotic Properties of Monomials | | Test 1
 | Week 7 | Mathematical Induction Graph Theory: Walks | | HW5

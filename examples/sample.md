@@ -14,7 +14,7 @@ permalink: /sample/
   * Lab 3 meets Friday: 9:00 - 10:15 AM EST in SEH 1450
 
 **Office Hours:**
-  * Prof. Vishesh Patel: After Class, SEH 1st Floor Bump Space (or by appointment)
+  * Prof. Vishesh Patel: After Class, SEH 1st or 4th Floor Bump Space (or by appointment)
   * Prof. Kasia Hitczenko: Office Hours: Wednesdays 12:30-1:30 in SEH 5520 (or by appointment)
 
 ### Course Description and Learning Outcomes
