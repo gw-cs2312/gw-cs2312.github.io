@@ -34,13 +34,13 @@ layout: home
 | Date | Topic | Reading | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
 | Thurs Aug 22 | Introduction and Review ([intro slides](lecture_notes/Lecture1_8_22_Presentation.pptx.pdf) and [lecture notes](lecture_notes/20240822_lecturenotes.pdf)) | Epp: 1.1, 2.1-2.3 |  | Patel
-| Lab Aug 26/28/30 | Incorrect proofs ([lab slides](lecture_notes/Lab 01.pdf)) | | | TAs
+| Lab Aug 26/28/30 | Incorrect proofs ([lab slides](lecture_notes/Lab1.pdf)) | | | TAs
 | Tues Aug 27 | Proof Techniques II ([lecture notes](lecture_notes/20240827_lecturenotes.pdf)) | | | Patel
 | Thurs Aug 29 | Divisibility ([handout](lecture_notes/DivisibilityResults.pdf) and [lecture notes](lecture_notes/20240829_lecturenotes_kh.pdf)) | Epp: 4.1, 4.2, 4.4 | | Hitczenko
 | Lab Sept 2/4/6 | NO LAB THIS WEEK (LABOR DAY)
 | Tues Sept 3 | Divisibility Continued: Modular Arithmetic ([handout](lecture_notes/ModulomDefinitionAndRemainders.pdf), [lecture notes](lecture_notes/20240903_lecturenotes.pdf), [extra notes on proof #1 from handout](lecture_notes/20240903_lecturenotes_video.pdf), see videos on Blackboard) |  | HW1 due before class | Hitczenko
 | Thurs Sept 5 | Induction (Weak) ([lecture_notes](lecture_notes/InductionLectureNotes.pdf)) |  | | Patel
-| Lab Sept 9/11/13 | Congruence Modulo M is an Equivalence Relation ([lab slides](lecture_notes/Lab 02.pdf))| Epp: 8.1-8.4 (focus on Example 8.2.4, Theorem 8.4.1) | | TAs
+| Lab Sept 9/11/13 | Congruence Modulo M is an Equivalence Relation ([lab slides](lecture_notes/Lab2.pdf))| Epp: 8.1-8.4 (focus on Example 8.2.4, Theorem 8.4.1) | | TAs
 | Tues Sept 10 | Induction (Weak and Strong) | | HW2 due before class | Patel
 | Thurs Sept 12 | Timing Analysis | | | Hitczenko
 | Week 4 | Timing Analysis Continued | | HW3
