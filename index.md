@@ -41,7 +41,7 @@ layout: home
 | Tues Sept 3 | Divisibility Continued: Modular Arithmetic ([handout](lecture_notes/ModulomDefinitionAndRemainders.pdf), [lecture notes](lecture_notes/20240903_lecturenotes.pdf), [extra notes on proof #1 from handout](lecture_notes/20240903_lecturenotes_video.pdf), see videos on Blackboard) |  | HW1 due before class | Hitczenko
 | Thurs Sept 5 | Induction (Weak) ([lecture_notes](lecture_notes/InductionLectureNotes.pdf)) |  | | Patel
 | Lab Sept 9/11/13 | Congruence Modulo M is an Equivalence Relation ([lab slides](lecture_notes/Lab2.pdf))| Epp: 8.1-8.4 (focus on Example 8.2.4, Theorem 8.4.1) | | TAs
-| Tues Sept 10 | Induction (Weak and Strong) | | HW2 due before class | Patel
+| Tues Sept 10 | Induction (Weak and Strong) ([lecture notes](lecture_notes/lecture6.pdf)) | | HW2 due before class | Patel
 | Thurs Sept 12 | Timing Analysis | | | Hitczenko
 | Week 4 | Timing Analysis Continued | | HW3
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
