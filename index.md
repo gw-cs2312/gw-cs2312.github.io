@@ -43,7 +43,7 @@ layout: home
 | Lab Sept 9/11/13 | Congruence Modulo M is an Equivalence Relation ([lab slides](lecture_notes/Lab2.pdf))| Epp: 8.1-8.4 (focus on Example 8.2.4, Theorem 8.4.1) | | TAs
 | Tues Sept 10 | Induction (Weak and Strong) ([lecture notes](lecture_notes/lecture6.pdf)) | | HW2 due before class | Patel
 | Thurs Sept 12 | Timing Analysis ([lecture notes](lecture_notes/20240913_lecturenotes.pdf)) | Epp: 11.2 | | Hitczenko
-| Lab Sept 16/18/20 | Timing Analyses ([handout](lecture_notes/Lab3.pdf) | | | TAs
+| Lab Sept 16/18/20 | Timing Analyses ([handout](lecture_notes/Lab3.pdf)) | | | TAs
 | Tues Sept 17 | Big-Oh Definition | | HW3 due before class | Hitczenko
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
 | Week 6 | Asymptotic Properties of Monomials <br> **Midterm 1 (10/1)** | | Test 1
