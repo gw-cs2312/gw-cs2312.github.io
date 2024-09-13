@@ -46,14 +46,14 @@ layout: home
 | Lab Sept 16/18/20 | Timing Analyses ([handout](lecture_notes/Lab3.pdf)) | | | TAs
 | Tues Sept 17 | Big-Oh Definition | | HW3 due before class | Hitczenko
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
-| Week 6 | Asymptotic Properties of Monomials <br> **Midterm 1 (10/1)** | | Test 1
+| Week 6 | Asymptotic Properties of Monomials <br> **Midterm 1 (10/1)** | | **Midterm 1 (10/1)**
 | Week 7 | Mathematical Induction Graph Theory: Walks | | HW5
 | Week 8 | Walks, Trails, Paths, Diameter | | HW6
 | Week 9 | Cycles, Connectedness, Components | | HW7
 | Week 10 | Trees | | HW8 
 | Week 11 | Spanning Trees, Graph Coloring | | HW9
 | Week 12 | Bipartite Graphs | | HW10
-| Week 13 | Graph Homomorphisms | Test 2
+| Week 13 | Graph Homomorphisms | | Test 2
 | Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
 | Week 15 | Final Exam as scheduled by University |
 
