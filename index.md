@@ -45,7 +45,7 @@ layout: home
 | Thurs Sept 12 | Timing Analysis | | | Hitczenko
 | Week 4 | Timing Analysis Continued | | HW3
 | Week 5 | Big-Oh and Polynomials, Big Omega and Big Theta | |  HW4
-| Week 6 | Asymptotic Properties of Monomials\ **Midterm 1 (10/1)** | | Test 1
+| Week 6 | Asymptotic Properties of Monomials <br> **Midterm 1 (10/1)** | | Test 1
 | Week 7 | Mathematical Induction Graph Theory: Walks | | HW5
 | Week 8 | Walks, Trails, Paths, Diameter | | HW6
 | Week 9 | Cycles, Connectedness, Components | | HW7
