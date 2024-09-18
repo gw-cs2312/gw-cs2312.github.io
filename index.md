@@ -44,7 +44,7 @@ layout: home
 | Tues Sept 10 | Induction (Weak and Strong) ([lecture notes](lecture_notes/lecture6.pdf)) | | HW2 due before class | Patel
 | Thurs Sept 12 | Timing Analysis ([lecture notes](lecture_notes/20240912_lecturenotes.pdf)) | Epp: 11.2 | | Hitczenko
 | Lab Sept 16/18/20 | Timing Analyses ([handout](lecture_notes/Lab3.pdf)) | | | TAs
-| Tues Sept 17 | Big-Oh Definition ([lecture notes](lecture_notes/20240917_lecturenotes.pdf) | | HW3 due before class | Hitczenko
+| Tues Sept 17 | Big-Oh Definition ([lecture notes](lecture_notes/20240917_lecturenotes.pdf), [practice problems](lecture_notes/Asymptotics-General.pdf), [additional slides](lecture_notes/Asymptotics-I.pdf)) | | HW3 due before class | Hitczenko
 | Thurs Sept 19 | Big-Oh Cont'd | | | Patel
 | Lab Sept 23/25/27 | Big-Oh Practice | | | TAs
 | Tues Sept 24 | Big Omega and Big Theta | | HW4 due before class | Patel
