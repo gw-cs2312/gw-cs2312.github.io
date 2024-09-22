@@ -49,15 +49,16 @@ layout: home
 | Lab Sept 23/25/27 | Big-Oh Practice | | | TAs
 | Tues Sept 24 | Big Omega and Big Theta | | HW4 due before class | Patel
 | Thurs Sept 26 | Asymptotics Cont'd | | | Hitczenko
-| Tues Oct 1 | **Midterm 1** | | |
-| Week 7 | Mathematical Induction Graph Theory: Walks | | HW5
-| Week 8 | Walks, Trails, Paths, Diameter | | HW6
-| Week 9 | Cycles, Connectedness, Components | | HW7
-| Week 10 | Trees | | HW8 
-| Week 11 | Spanning Trees, Graph Coloring | | HW9
-| Week 12 | Bipartite Graphs | | HW10
-| Week 13 | Graph Homomorphisms | | Test 2
-| Week 14 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
-| Week 15 | Final Exam as scheduled by University |
+| Week 6 | More Asymptotics (Timing, Big-Oh) | | | Hitczenko 
+| Tues Oct 8 | **Midterm 1** | | |
+| Week 8 | Mathematical Induction Graph Theory: Walks | | HW5
+| Week 9 | Walks, Trails, Paths, Diameter | | HW6
+| Week 10 | Cycles, Connectedness, Components | | HW7
+| Week 11 | Trees | | HW8 
+| Week 12 | Spanning Trees, Graph Coloring | | HW9
+| Week 13 | Bipartite Graphs | | HW10
+| Week 14 | Graph Homomorphisms | | Test 2
+| Week 15 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
+| Week 16 | Final Exam as scheduled by University |
 
 </div>
