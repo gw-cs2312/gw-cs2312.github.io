@@ -46,7 +46,7 @@ layout: home
 | Lab Sept 16/18/20 | Timing Analyses ([handout](lecture_notes/Lab3.pdf)) | | | TAs
 | Tues Sept 17 | Big-Oh Definition ([lecture notes](lecture_notes/20240917_lecturenotes.pdf), [practice problems](lecture_notes/Asymptotics-General.pdf), [additional slides](lecture_notes/Asymptotics-I.pdf)) | | HW3 due before class | Hitczenko
 | Thurs Sept 19 | Big-Oh Cont'd ([lecture notes](lecture_notes/Lecture9.pdf)) | | | Patel
-| Lab Sept 23/25/27 | Big-Oh Practice | | | TAs
+| Lab Sept 23/25/27 | Big-Oh Practice ([lab slides](lecture_notes/Lab4.pdf)) | | | TAs
 | Tues Sept 24 | Big Omega and Big Theta | | HW4 due before class | Patel
 | Thurs Sept 26 | Asymptotics Cont'd | | | Hitczenko
 | Week 6 | More Asymptotics (Timing, Big-Oh) | | | Hitczenko 
