@@ -50,7 +50,7 @@ layout: home
 | Tues Sept 24 | Big Omega and Big Theta ([lecture notes](lecture_notes/T.pdf)) | | HW4 due before class | Patel
 | Thurs Sept 26 | Asymptotics Practice Problems ([handout](lecture_notes/20240926_asymptotics_practice.pdf)) and ([solutions](lecture_notes/20240926_asymptotics_solutions.pdf)) | | | Hitczenko
 | Lab Sept 30/Oct 2/4 | Midterm Review ([lab_slides](lecture_notes/Lab5.pdf)) | | | TAs
-| Tues Oct 1 | Asymptotics Practice Problems ([lecture notes](20241001_lecturenotes.pdf)) | | HW5 due before class | Hitczenko
+| Tues Oct 1 | Asymptotics Practice Problems ([lecture notes](lecture_notes/20241001_lecturenotes.pdf)) | | HW5 due before class | Hitczenko
 | Thurs Oct 3 | Midterm Review | | | Patel 
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
 | Tues Oct 8 | **Midterm 1** | | **Midterm 1** |
