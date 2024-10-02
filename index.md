@@ -50,13 +50,12 @@ layout: home
 | Tues Sept 24 | Big Omega and Big Theta ([lecture notes](lecture_notes/T.pdf)) | | HW4 due before class | Patel
 | Thurs Sept 26 | Asymptotics Practice Problems ([handout](lecture_notes/20240926_asymptotics_practice.pdf)) and ([solutions](lecture_notes/20240926_asymptotics_solutions.pdf) | | | Hitczenko
 | Lab Sept 30/Oct 2/4 | Midterm Review | | | TAs
-| Tues Oct 1 | Asymptotics Practice Problems | | HW5 due before class | Hitczenko
+| Tues Oct 1 | Asymptotics Practice Problems | ([lecture notes](20241001/lecture_notes.pdf) | HW5 due before class | Hitczenko
 | Thurs Oct 3 | Midterm Review | | | Patel 
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
 | Tues Oct 8 | **Midterm 1** | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
-| Week 8 | Mathematical Induction Graph Theory: Walks | | HW5
-| Week 9 | Walks, Trails, Paths, Diameter | | HW6
+| Week 9 | Graphs, Walks, Trails, Paths, Diameter | | HW6
 | Week 10 | Cycles, Connectedness, Components | | HW7
 | Week 11 | Trees | | HW8 
 | Week 12 | Spanning Trees, Graph Coloring | | HW9
