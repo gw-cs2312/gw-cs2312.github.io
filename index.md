@@ -51,7 +51,7 @@ layout: home
 | Thurs Sept 26 | Asymptotics Practice Problems ([handout](lecture_notes/20240926_asymptotics_practice.pdf)) and ([solutions](lecture_notes/20240926_asymptotics_solutions.pdf)) | | | Hitczenko
 | Lab Sept 30/Oct 2/4 | Midterm Review ([lab_slides](lecture_notes/Lab5.pdf)) | | | TAs
 | Tues Oct 1 | Asymptotics Practice Problems ([lecture notes](lecture_notes/20241001_lecturenotes.pdf)) | | HW5 due before class | Hitczenko
-| Thurs Oct 3 | Midterm Review | | | Patel 
+| Thurs Oct 3 | Midterm Review ([lecture notes](lecture_notes/Lecture103.pdf)) | | | Patel 
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
 | Tues Oct 8 | **Midterm 1** (Location: Phillips Hall B152) | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
