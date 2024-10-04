@@ -53,7 +53,7 @@ layout: home
 | Tues Oct 1 | Asymptotics Practice Problems ([lecture notes](lecture_notes/20241001_lecturenotes.pdf)) | | HW5 due before class | Hitczenko
 | Thurs Oct 3 | Midterm Review | | | Patel 
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
-| Tues Oct 8 | **Midterm 1** | | **Midterm 1** |
+| Tues Oct 8 | **Midterm 1** (Location: Phillips Hall B152) | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
 | Week 9 | Graphs, Walks, Trails, Paths, Diameter | | HW6
 | Week 10 | Cycles, Connectedness, Components | | HW7
