@@ -55,7 +55,7 @@ layout: home
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
 | Tues Oct 8 | **Midterm 1** (Location: Phillips Hall B152) | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
-| Week 9 | Graphs, Walks, Trails, Paths, Diameter | | HW6
+| Tues Oct 15 | Graphs, Walks, Trails, Paths, Diameter ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | Patel
 | Week 10 | Cycles, Connectedness, Components | | HW7
 | Week 11 | Trees | | HW8 
 | Week 12 | Spanning Trees, Graph Coloring | | HW9
