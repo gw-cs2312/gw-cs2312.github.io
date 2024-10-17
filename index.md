@@ -56,7 +56,7 @@ layout: home
 | Tues Oct 8 | **Midterm 1** (Location: Phillips Hall B152) | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
 | Tues Oct 15 | Graphs, Walks, Trails, Paths, Diameter ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | | Patel
-| Thurs Oct 17 | Graphs, Walks, Trails, Paths, Diameter \ **Mid-Semester Survey Posted Due (10/24)** | | | Hitczenko 
+| Thurs Oct 17 | Graphs, Walks, Trails, Paths, Diameter **Mid-Semester Survey Posted Due (10/24)** | | | Hitczenko 
 | Week 10 | Cycles, Connectedness, Components | | HW7
 | Week 11 | Trees | | HW8 
 | Week 12 | Spanning Trees, Graph Coloring | | HW9
