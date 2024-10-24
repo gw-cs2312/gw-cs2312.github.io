@@ -57,7 +57,7 @@ layout: home
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
 | Tues Oct 15 | Graphs, Walks, Trails, Paths, Diameter ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | | Patel
 | Thurs Oct 17 | Graphs, Walks, Trails, Paths, Diameter **Mid-Semester Survey Posted Due (10/24)** ([lecture notes](lecture_notes/Lecture15.pdf)) | | | Hitczenko 
-| Tues Oct 23rd | Cycles, Connectedness, Components ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7
+| Tues Oct 23rd | Cycles, Connectedness, Components ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7
 | Week 11 | Trees | | HW8 
 | Week 12 | Spanning Trees, Graph Coloring | | HW9
 | Week 13 | Bipartite Graphs | | HW10
