@@ -55,12 +55,12 @@ layout: home
 | Lab Oct 7/9/11 | NO LAB THIS WEEK (FALL BREAK) | | |
 | Tues Oct 8 | **Midterm 1** (Location: Phillips Hall B152) | | **Midterm 1** |
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
-| Tues Oct 15 | Graphs, Walks, Trails, Paths, Diameter ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | | Patel
-| Thurs Oct 17 | Graphs, Walks, Trails, Paths, Diameter **Mid-Semester Survey Posted Due (10/24)** ([lecture notes](lecture_notes/Lecture15.pdf)) | | | Hitczenko 
-| Tues Oct 22rd | Cycles, Connectedness, Components ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7 | Hitczenko 
-| Thurs Oct 24th | Cycles, Connectedness, Components ([lecture notes](lecture_notes/Lecture17.pdf)) | | | Patel 
-| Week 11 | Trees | | HW8 
-| Week 12 | Spanning Trees, Graph Coloring | | HW9
+| Tues Oct 15 | Introduction to Graphs ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | | Patel
+| Thurs Oct 17 | Trees  **Mid-Semester Survey Posted Due (10/24)** ([lecture notes](lecture_notes/Lecture15.pdf)) | | | Patel 
+| Tues Oct 22rd | Spanning Trees ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7 | Patel 
+| Thurs Oct 24th | Hamiltonian Cycles and Eulerian Circuits ([lecture notes](lecture_notes/Lecture17.pdf)) | | | Patel
+| Week 11 | Advanced Graph Theory | | HW8 
+| Week 12 | Graph Coloring | | HW9
 | Week 13 | Bipartite Graphs | | HW10
 | Week 14 | Graph Homomorphisms | | Test 2
 | Week 15 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
