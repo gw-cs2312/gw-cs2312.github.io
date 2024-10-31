@@ -59,7 +59,7 @@ layout: home
 | Thurs Oct 17 | Trees  **Mid-Semester Survey Posted Due (10/24)** ([lecture notes](lecture_notes/Lecture15.pdf)) | | | Patel 
 | Tues Oct 22rd | Spanning Trees ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7 | Patel 
 | Thurs Oct 24th | Hamiltonian Cycles and Eulerian Circuits ([lecture notes](lecture_notes/Lecture17.pdf)) | | | Patel
-| Tues Oct 29th | Advanced Graph Theory ([lab slides](lecture_notes/Lab8.pdf)) ([lab solutions](lecture_notes/Lab8_Solutions.pdf)) | | HW8 
+| Tues Oct 29th | Advanced Graph Theory ([lab slides](lecture_notes/Lab8.pdf)) ([lab solutions](lecture_notes/Lab8_Solutions.pdf)) ([lecture notes](lecture_notes/Lecture18.pdf)) | | HW8 
 | Week 12 | Graph Coloring | | HW9
 | Week 13 | Bipartite Graphs | | HW10
 | Week 14 | Graph Homomorphisms | | Test 2
