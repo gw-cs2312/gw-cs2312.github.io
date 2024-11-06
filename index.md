@@ -61,7 +61,7 @@ layout: home
 | Thurs Oct 24th | Hamiltonian Cycles and Eulerian Circuits ([lecture notes](lecture_notes/Lecture17.pdf)) | | | Patel
 | Tues Oct 29th | Advanced Graph Theory ([lab slides](lecture_notes/Lab8.pdf)) ([lab solutions](lecture_notes/Lab8_Solutions.pdf)) ([lecture notes](lecture_notes/Lecture18.pdf)) | | HW8 | Hitczenko
 | Thurs Oct 31st | Advanced Graph Theory ([lecture notes](lecture_notes/Lecture19.pdf)) | | | Hitczenko
-| Week 12 | Graph Coloring | | HW9
+| Tues Nov 6 | Graph Coloring ([lab slides](lecture_notes/Lab9.pdf)) ([lab solutions](lecture_notes/Lab9_Solutions.pdf)) | | HW9
 | Week 13 | Bipartite Graphs | | HW10
 | Week 14 | Graph Homomorphisms | | Test 2
 | Week 15 | Cycle Parity and Bipartite Graphs; Algebraic structures | | HW11
