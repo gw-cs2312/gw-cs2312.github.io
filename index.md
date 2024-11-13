@@ -63,7 +63,7 @@ layout: home
 | Thurs Oct 31 | Advanced Graph Theory ([lecture notes](lecture_notes/Lecture19.pdf)) | | | Hitczenko
 | Tues Nov 5 | Graph Coloring ([lab slides](lecture_notes/Lab9.pdf)) ([lab solutions](lecture_notes/Lab9_Solutions.pdf)) | | 
 | Thurs Nov 7 | Graph Coloring ([lecture notes](lecture_notes/Lecture20.pdf)) ([handout](lecture_notes/GraphColoring.pdf)) | | HW 8 due before class | Hitczenko 
-| Lab Nov 11/13/15 | Midterm Review | | | TAs
+| Lab Nov 11/13/15 | Midterm Review ([lab slides](lecture_notes/Lab10.pdf)) | | | TAs
 | Tues Nov 12 | Graph Coloring ([lecture notes](lecture_notes/20241112_lecturenotes.pdf)) | | | Hitczenko 
 | Thurs Nov 14 | Bipartite Graphs | | HW 9 due before class | Hitczenko 
 | Lab Nov 18/20/22 | No Lab | | | TAs
