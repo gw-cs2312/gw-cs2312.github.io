@@ -57,15 +57,15 @@ layout: home
 | Thurs Oct 10 | NO CLASS (FALL BREAK) | | |
 | Tues Oct 15 | Introduction to Graphs ([lecture_notes](lecture_notes/LectureNotes1015.pdf)) | | | Patel
 | Thurs Oct 17 | Trees  **Mid-Semester Survey Posted Due (10/24)** ([lecture notes](lecture_notes/Lecture15.pdf)) | | | Patel 
-| Tues Oct 22 | Spanning Trees ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW7 | Patel 
+| Tues Oct 22 | Spanning Trees ([lecture notes](lecture_notes/Lecture16.pdf)) ([lab slides](lecture_notes/Lab07.pdf)) ([lab solutions](lecture_notes/Lab7_Solutions.pdf)) | | HW6 due before class | Patel 
 | Thurs Oct 24 | Hamiltonian Cycles and Eulerian Circuits ([lecture notes](lecture_notes/Lecture17.pdf)) | | | Patel
-| Tues Oct 29 | Advanced Graph Theory ([lab slides](lecture_notes/Lab8.pdf)) ([lab solutions](lecture_notes/Lab8_Solutions.pdf)) ([lecture notes](lecture_notes/Lecture18.pdf)) | | HW8 | Hitczenko
+| Tues Oct 29 | Advanced Graph Theory ([lab slides](lecture_notes/Lab8.pdf)) ([lab solutions](lecture_notes/Lab8_Solutions.pdf)) ([lecture notes](lecture_notes/Lecture18.pdf)) | | HW7 due before class | Hitczenko
 | Thurs Oct 31 | Advanced Graph Theory ([lecture notes](lecture_notes/Lecture19.pdf)) | | | Hitczenko
 | Tues Nov 5 | Graph Coloring ([lab slides](lecture_notes/Lab9.pdf)) ([lab solutions](lecture_notes/Lab9_Solutions.pdf)) | | 
-| Thurs Nov 7 | Graph Coloring ([lecture notes](lecture_notes/Lecture20.pdf)) ([handout](lecture_notes/GraphColoring.pdf)) | | HW 8 due before class | Hitczenko 
+| Thurs Nov 7 | Graph Coloring ([lecture notes](lecture_notes/Lecture20.pdf)) ([handout](lecture_notes/GraphColoring.pdf)) | | HW8 due before class | Hitczenko 
 | Lab Nov 11/13/15 | Midterm Review ([lab slides](lecture_notes/Lab10.pdf)) | | | TAs
 | Tues Nov 12 | Graph Coloring ([lecture notes](lecture_notes/20241112_lecturenotes.pdf)) | | | Hitczenko 
-| Thurs Nov 14 | Bipartite Graphs | | HW 9 due before class | Hitczenko 
+| Thurs Nov 14 | Bipartite Graphs | | HW9 due before class | Hitczenko 
 | Lab Nov 18/20/22 | No Lab | | | TAs
 | Tues Nov 19 | Midterm Review | | | Patel 
 | Thurs Nov 21 | **Midterm 2** | | **Midterm 1** | 
@@ -73,7 +73,7 @@ layout: home
 | Thurs Nov 28 | No class | | |
 | Mon Dec 2/4/6 | Midterm #2 Review | | | TAs 
 | Tues Dec 3 | Graph Isomorphism & Homomorphism | | | Hitczenko 
-| Thurs Dec 5 | Group and Ring | | HW 10 due before class | Hitczenko 
+| Thurs Dec 5 | Group and Ring | | HW10 due before class | Hitczenko 
 | Tues Dec 10 | Group and Ring/Review | | | Hitczenko 
 | Mon Dec 9/11/13 | No Lab | | | 
 | Thurs Dec 12 | **Final Exam** (5:20-7:20pm in TOMP 208) | | | 
