@@ -68,7 +68,7 @@ layout: home
 | Thurs Nov 14 | Bipartite Graphs | | HW9 due before class | Hitczenko 
 | Lab Nov 18/20/22 | No Lab | | | TAs
 | Tues Nov 19 | Midterm Review | | | Patel 
-| Thurs Nov 21 | **Midterm 2** | | **Midterm 1** | 
+| Thurs Nov 21 | **Midterm 2** | | **Midterm 2** | 
 | Tues Nov 26 | No class | | | 
 | Thurs Nov 28 | No class | | |
 | Mon Dec 2/4/6 | Midterm #2 Review | | | TAs 
