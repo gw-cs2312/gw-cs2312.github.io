@@ -65,7 +65,7 @@ layout: home
 | Thurs Nov 7 | Graph Coloring ([lecture notes](lecture_notes/Lecture20.pdf)) ([handout](lecture_notes/GraphColoring.pdf)) | | HW8 due before class | Hitczenko 
 | Lab Nov 11/13/15 | Midterm Review ([lab slides](lecture_notes/Lab10.pdf)) | | | TAs
 | Tues Nov 12 | Graph Coloring ([lecture notes](lecture_notes/20241112_lecturenotes.pdf)) | | | Hitczenko 
-| Thurs Nov 14 | Bipartite Graphs | | HW9 due before class | Hitczenko 
+| Thurs Nov 14 | Bipartite Graphs ([lecture notes](lecture_notes/20241114_lecturenotes.pdf)) | | HW9 due before class | Hitczenko 
 | Lab Nov 18/20/22 | No Lab | | | TAs
 | Tues Nov 19 | Midterm Review | | | Patel 
 | Thurs Nov 21 | **Midterm 2** | | **Midterm 2** | 
