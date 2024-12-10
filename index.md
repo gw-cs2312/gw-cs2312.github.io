@@ -74,7 +74,7 @@ layout: home
 | Mon Dec 2/4/6 | Midterm #2 Review | | | TAs 
 | Tues Dec 3 | Graph Isomorphism ([lecture notes](lecture_notes/20241203_lecturenotes.pdf)) | Epp: 10.3 | | Hitczenko 
 | Thurs Dec 5 | Graph Isomorphism & Homomorphism ([lecture notes](lecture_notes/20241205_lecturenotes.pdf)) | | | Hitczenko 
-| Tues Dec 10 | Groups and Rings | | HW10 due before class | Hitczenko 
+| Tues Dec 10 | Graph Homomorphisms Cont'd | | HW10 due before class | Hitczenko 
 | Mon Dec 9/11/13 | No Lab | | | 
 | Thurs Dec 12 | **Final Exam** (5:20-7:20pm in TOMP 208) | | | 
 
